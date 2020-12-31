@@ -25,7 +25,7 @@ SECRET_KEY = 'w#939zbf2i2&=bg)hb(d_(j@u=8&y@pidp5rh6@k*@_38h1tl8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','travelioharsh.herokuapp.com/']
 
 
 # Application definition
